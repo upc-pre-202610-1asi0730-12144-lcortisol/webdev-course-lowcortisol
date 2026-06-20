@@ -25,8 +25,8 @@ Al finalizar el curso, el estudiante será capaz de:
 - Explicar qué es una página web.
 - Diferenciar HTML y CSS.
 - Crear una estructura básica de HTML.
-- Usar etiquetas como h1, h2, p, ul, li, img y .
-- Reconocer atributos como href, src, lt y class.
+- Usar etiquetas como h1, h2, p, ul, li, img y a.
+- Reconocer atributos como href, src, alt y class.
 - Aplicar estilos simples con CSS.
 - Usar selectores, propiedades y valores.
 - Crear una tarjeta visual con CSS.
@@ -205,8 +205,20 @@ El estudiante reconoce errores básicos y sabe cómo corregirlos.
 ## Recursos adicionales
 
 - Código fuente completo: pendiente
-- Videos no listados: ver ideos/youtube-links.md
-- Editores online: ver esources/links/online-editors.md
+- Videos no listados: ver videos/youtube-links.md
+- Editores online: ver resources/links/online-editors.md
+- Recursos visuales: ver resources/images/
+
+## Recursos visuales del curso
+
+Los logos `html-logo.png` y `css-logo.png` se encuentran centralizados en `resources/images/`.
+
+Estos logos representan las dos tecnologías principales del curso:
+
+- HTML: estructura y contenido de una página web.
+- CSS: diseño visual, colores, espaciado y presentación.
+
+El objetivo de centralizarlos es evitar duplicados y mantener los recursos del curso organizados. Los archivos HTML y CSS de `starter-files/` y `completed-examples/` pueden mantenerse vacíos mientras cada integrante desarrolla su lección asignada.
 
 ## Elaboración en equipo
 
@@ -219,7 +231,7 @@ El estudiante reconoce errores básicos y sabe cómo corregirlos.
 **Nombre de producto:** cleanflow  
 **Líder del equipo:** James  
 **Integrantes:** James, Kirk, Bruno, Miguel y Jean  
-**Fecha de entrega:** pendiente  
+**Fecha de entrega:** 21/06/2026
 
 ## Resumen de elaboración colaborativa
 

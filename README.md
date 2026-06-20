@@ -58,8 +58,8 @@ Solo se necesita un navegador web moderno:
 - starter-files/: archivos iniciales para que los estudiantes practiquen.
 - completed-examples/: ejemplos completos de cada lección.
 - scripts/: guiones de cada video.
-- esources/: enlaces, imágenes y recursos auxiliares.
-- ideos/: enlaces a videos no listados de YouTube.
+- resources/: enlaces, imágenes y recursos auxiliares.
+- videos/: enlaces a videos no listados de YouTube.
 - docs/: documentos internos de organización del equipo.
 - exports/: archivos generados para la entrega final.
 
@@ -88,7 +88,16 @@ Este mismo repositorio contiene el material del curso, los archivos iniciales, l
 
 URL del repositorio:
 
-pendiente
+[Repositorio WebDev Course](https://github.com/upc-pre-202610-1asi0730-12144-lcortisol/webdev-course-lowcortisol)
+
+## Recursos visuales
+
+Los logos principales del curso se almacenan de forma centralizada en `resources/images/`.
+
+- `html-logo.png`: representa HTML, la tecnología usada para crear la estructura y el contenido de una página web.
+- `css-logo.png`: representa CSS, la tecnología usada para definir la presentación visual de una página web.
+
+Estos recursos sirven como apoyo visual para el plan del curso, la exposición y el material de referencia. Los archivos de código dentro de `starter-files/` y `completed-examples/` pueden permanecer vacíos hasta que cada integrante complete su lección asignada.
 
 ## Estado
 

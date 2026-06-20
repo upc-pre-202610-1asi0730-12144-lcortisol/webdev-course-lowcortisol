@@ -26,6 +26,6 @@
 - Revisar audio.
 - Revisar que el código se vea claro.
 - Subir el video como no listado en YouTube.
-- Pegar el enlace en ideos/youtube-links.md.
+- Pegar el enlace en videos/youtube-links.md.
 - Pegar el enlace en course-plan.md.
 - Confirmar que el enlace de CodePen funciona.
